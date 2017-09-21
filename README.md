@@ -1,0 +1,1 @@
+This project is a simple demo to convert an image to ascii image
